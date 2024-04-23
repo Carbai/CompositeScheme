@@ -1,4 +1,4 @@
-# CompositeScheme
+# Composite Scheme
 This script evaluate jun-ChS energy.
 First a file will be created.
 Fill in the spaces in the new file with the energy values required.
